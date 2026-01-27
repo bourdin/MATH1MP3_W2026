@@ -207,4 +207,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-Notebooks/C01/05-Loops.ipynb
+Notebooks/C01/06-Functions.ipynb
